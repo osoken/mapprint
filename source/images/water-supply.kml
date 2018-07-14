@@ -4162,8 +4162,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>井戸｜常泉寺 （6:00-18:00）</name>
-        <description><![CDATA[墓地のそばの蛇口<br>6時〜18時]]></description>
+        <name>井戸｜浄泉寺 （6:00-18:00）</name>
+        <description><![CDATA[墓地のそばの蛇口<br>＊ご近所の高齢のや、墓参りに来られ方を優先させてください。よろしくお願いいたします。<br>時間：6時〜18時]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <Point>
           <coordinates>
@@ -4528,8 +4528,8 @@
     <Folder>
       <name>東広島市</name>
       <Placemark>
-        <name>給水｜東広島市立 西志和小学校（飲用可/24時間）</name>
-        <description><![CDATA[★★正門よりお入りください。★★<br><br>※24時間となっている場所は、屋外水栓からご自由にお取りください。門が閉まっている場合は、開けていただいてかまいません。学校については、午前中授業を行っているので、ご配慮ください。<br><br>※水を入れる容器は各自でご用意くださいとのことです。<br><br>＊東広島市ホームページ<br>http://www.city.higashihiroshima.lg.jp/soshiki/suido/1/1/17943.html<br><br>志和町 奥屋地区地域<br>志和町 別府地区]]></description>
+        <name>給水｜東広島市立 西志和小学校（7/13から閉鎖）</name>
+        <description><![CDATA[＊東広島市ホームページ<br>http://www.city.higashihiroshima.lg.jp/soshiki/suido/1/1/17943.html]]></description>
         <styleUrl>#icon-seq2-1-0-7CB342</styleUrl>
         <Point>
           <coordinates>
@@ -4538,8 +4538,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>給水｜東広島市 黒瀬支所（飲用可/24時間）</name>
-        <description><![CDATA[＊東広島市ホームページ<br>http://www.city.higashihiroshima.lg.jp/soshiki/suido/1/1/17943.html<br><br>黒瀬町 市飯田地区<br>※水を入れる容器は各自でご用意くださいとのことです。]]></description>
+        <name>給水｜東広島市 黒瀬支所（7/13から閉鎖）</name>
+        <description><![CDATA[＊東広島市ホームページ<br>http://www.city.higashihiroshima.lg.jp/soshiki/suido/1/1/17943.html]]></description>
         <styleUrl>#icon-seq2-1-1-7CB342</styleUrl>
         <Point>
           <coordinates>
@@ -4722,6 +4722,66 @@
         <Point>
           <coordinates>
             132.941772,34.413402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>給水｜広島県立総合技術高等学校（飲用可/9:00-19:00）</name>
+        <description><![CDATA[三原市ホームページ<br>http://www.city.mihara.hiroshima.jp/soshiki/49/kyusui.html<br><br>▼給水対応日時<br>９時～19時<br><br>※ 給水用の容器をご持参ください。１人につき１２リットル程度までとさせていただきます。<br>※給水場所付近は，混雑が予想されます。<br>とのことです。<br><br>▼問合せ先<br>水道部<br>〒723-0065 広島県三原市西野5-14-1　<br>給水係<br>Tel：0848-64-2294]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            132.987663,34.408062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>給水｜青空公園（飲用可/9:00-19:00）</name>
+        <description><![CDATA[三原市ホームページ<br>http://www.city.mihara.hiroshima.jp/soshiki/49/kyusui.html<br><br>▼給水対応日時<br>９時～19時<br><br>※ 給水用の容器をご持参ください。１人につき１２リットル程度までとさせていただきます。<br>※給水場所付近は，混雑が予想されます。<br>とのことです。<br><br>▼問合せ先<br>水道部<br>〒723-0065 広島県三原市西野5-14-1　<br>給水係<br>Tel：0848-64-2294]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            133.0111155,34.4075979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>給水｜和木公民館（飲用可/9:00-19:00）</name>
+        <description><![CDATA[三原市ホームページ<br>http://www.city.mihara.hiroshima.jp/soshiki/49/kyusui.html<br><br>▼給水対応日時<br>９時～19時<br><br>※ 給水用の容器をご持参ください。１人につき１２リットル程度までとさせていただきます。<br>※給水場所付近は，混雑が予想されます。<br>とのことです。<br><br>▼問合せ先<br>水道部<br>〒723-0065 広島県三原市西野5-14-1　<br>給水係<br>Tel：0848-64-2294]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            132.921113,34.513998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>給水｜糸崎岸壁（飲用可/9:00-19:00）</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/jGv7fmN98bpE75f_6iyBqdyu7y35JCXjBgvVOlOgkTQ6qAWFpo1Wk1sWLggSiilGTWKqm1AlvFE3j87pc8KKRwPBN36iNQC4grdTaTHbH-5XC7A8WVZuWuZAqtcpVqeYoTM4Rw" height="200" width="auto" /><br><br>三原市ホームページ<br>http://www.city.mihara.hiroshima.jp/soshiki/49/kyusui.html<br><br>▼給水対応日時<br>９時～19時<br><br>※ 給水用の容器をご持参ください。１人につき１２リットル程度までとさせていただきます。<br>※給水場所付近は，混雑が予想されます。<br>とのことです。<br><br>▼問合せ先<br>水道部<br>〒723-0065 広島県三原市西野5-14-1　<br>給水係<br>Tel：0848-64-2294]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/jGv7fmN98bpE75f_6iyBqdyu7y35JCXjBgvVOlOgkTQ6qAWFpo1Wk1sWLggSiilGTWKqm1AlvFE3j87pc8KKRwPBN36iNQC4grdTaTHbH-5XC7A8WVZuWuZAqtcpVqeYoTM4Rw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            133.1031632,34.3897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>給水｜貝野岸壁（飲用可/9:30-19:00）</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/KPaLNLaliNNa_sSLrpEcMQcU5iBfZ4MQddBkCSjva95r3hB0G4AsdQ4C-AD62CEU0-JE1jhzKdCJy91rbNg5Y1dMhpIr7X4YfIJzNEYZPWQt4IzOgUjczXPMecK8OpspO2idcw4" height="200" width="auto" /><br><br>三原市ホームページ<br>http://www.city.mihara.hiroshima.jp/soshiki/49/kyusui.html<br><br>▼給水対応日時<br>９時30分～19時<br><br>※ 給水用の容器をご持参ください。１人につき１２リットル程度までとさせていただきます。<br>※給水場所付近は，混雑が予想されます。<br>とのことです。<br><br>▼問合せ先<br>水道部<br>〒723-0065 広島県三原市西野5-14-1　<br>給水係<br>Tel：0848-64-2294]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/KPaLNLaliNNa_sSLrpEcMQcU5iBfZ4MQddBkCSjva95r3hB0G4AsdQ4C-AD62CEU0-JE1jhzKdCJy91rbNg5Y1dMhpIr7X4YfIJzNEYZPWQt4IzOgUjczXPMecK8OpspO2idcw4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            133.0919409,34.3822096,0
           </coordinates>
         </Point>
       </Placemark>
@@ -4971,6 +5031,56 @@
         <Point>
           <coordinates>
             133.4073872,34.465524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>風呂｜因島総合福祉保健センター（18:00-23:00）</name>
+        <description><![CDATA[自衛隊による仮設入浴施設<br><br>入浴時間：18時00分～23時00分<br>※明日以降の予定はわかり次第お知らせします。<br><br>[注意事項]<br>タオルをご持参ください。（せっけん、シャンプーは用意してあります。）<br><br>どなたでも入浴できますが、混雑が予想されますので、気を付けてお越しください。<br><br>[尾道市のホームページ]<br>https://www.city.onomichi.hiroshima.jp/soshiki/8/20367.html]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            133.1689948,34.3008086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>風呂｜尾道カントリークラブ宇根山コース（12:00-16:00、タオル、シャンプー等は施設にあります。）</name>
+        <description><![CDATA[[施設連絡先]<br>0847-22-2311<br>[営業時間]<br>12:00~16:00<br>[備考]<br>・料金650円 <br>・タオル、シャンプー等は施設にありま す。]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            133.0787247,34.5549407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>風呂｜福山乳児院（3歳未満の子どもがいる家庭/1日3組まで/10:00-16:00）</name>
+        <description><![CDATA[【対象者】<br>3歳未満の子どもがいる家庭（1日　3組まで）<br>【入浴可能時間】<br>午前10時～午後16時<br>【その他】<br>家族で入浴することができます。<br>7月21日（土曜日）16時までの期間で実施予定です。<br>【尾道市のホームページ】<br>https://www.city.onomichi.hiroshima.jp/soshiki/23/20591.html]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            133.3250376,34.4657456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>風呂｜三原市 棲真寺山オートキャンプ場（9:00-16:30）</name>
+        <description><![CDATA[【電話番号0847-34-2750】<br>シャワー施設（温水）　・男性用　２基　・女性用　２基<br>★利用時間：月～金曜日　９時～１６時３０分<br>※７月14日（土曜日）～７月16日（月・祝）も無料開放。<br><br>※施設には，利用時間内は指定管理者が従事しています。<br>※施設の浄化槽の容量により，使用を制限する場合があります。]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            132.939583,34.461922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>風呂｜三原市大和町サイクリングターミナル（10:00-16:00）</name>
+        <description><![CDATA[【電話番号0847-33-0099】<br>シャワー施設（温水）　・男性用　３基　・女性用　３基<br>★利用時間：火曜日以外毎日　１０時～１６時００分<br><br>※施設には，利用時間内は指定管理者が従事しています。<br>※施設の浄化槽の容量により，使用を制限する場合があります。]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            132.9124574,34.5670932,0
           </coordinates>
         </Point>
       </Placemark>

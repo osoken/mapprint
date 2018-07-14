@@ -10,7 +10,16 @@ body {
 }
 #header {
   text-align: right;
-  width:210mm !important;
+  width: 210mm !important;
+
+  #qrcodecontainer {
+    float: left;
+    display: inline-block;
+    transform-origin: 0 0;
+    transform: scale(0.35);
+    position: absolute;
+    left: 1rem;
+  }
 }
 
 #content {
@@ -87,6 +96,9 @@ body {
           vertical-align: bottom;
           padding-left: 32px;
         }
+        tr {
+          page-break-inside: avoid;
+        }
         td {
           border-collapse: collapse;
           border-spacing: 0;
@@ -94,6 +106,8 @@ body {
           padding: 2px;
           &.id {
             width: 5%;
+            text-align: center;
+            font-weight: bold;
           }
           &.value {
             width: 45%;
@@ -102,21 +116,29 @@ body {
       }
     }
   }
-  
-  @media print {
-    // 印刷時のみ表示
-    .print_area {
-        display: block;
-    }
-    // 印刷したくない領域
-    .not_print_area {
-        display: none;
-    }
-  }
+}
 
-  @media screen {
-    .print_area {
-      display: none;
-    }
+@media print {
+  body {
+    width: 190mm;
   }
+  // 印刷時のみ表示
+  .print_area {
+      display: block;
+  }
+  // 印刷したくない領域
+  .not_print_area {
+      display: none;
+  }
+}
+
+@media screen {
+  .print_area {
+    display: none;
+  }
+}
+
+@page {
+  size: A4;
+  margin: 10mm;
 }
